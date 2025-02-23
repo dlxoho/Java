@@ -11,8 +11,5 @@ public class Var8 {
     // 실수
     float f = 10.0f;
     double d = 1.0; // float 보다 더 큰 범위의 실수를 가질수있다. (기본)
-
-
-
   }
 }

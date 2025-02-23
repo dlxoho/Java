@@ -1,0 +1,20 @@
+package variable.operator;
+
+public class Operator2 {
+  public static void main(String[] args) {
+    String result1 = "Hello" + "World";
+    System.out.println(result1);
+
+    String s1 = "String1";
+    String s2 = "String2";
+    String result = s1 + s2;
+    System.out.println(result);
+
+    String result3 = "a+b=" + 10;
+    System.out.println(result3);
+
+    int num = 10;
+    String str = "a+b=";
+    System.out.println(str + num);
+  }
+}
